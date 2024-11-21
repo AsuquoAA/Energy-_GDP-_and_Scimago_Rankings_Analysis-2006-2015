@@ -19,6 +19,15 @@ Navigating to directory
 
 ---
 
+## Datasets
+
+The following datasets were used:
+1. <a href="https://github.com/Lazycodes/Energy-_GDP-_and_Scimago_Rankings_Analysis-2006-2015/blob/main/Energy%20Indicators.xls">Energy_Indicators</a>
+2. <a href="https://github.com/Lazycodes/Energy-_GDP-_and_Scimago_Rankings_Analysis-2006-2015/blob/main/scimagojr-3.xlsx">Scimago_Ranking</a>
+3. <a href="https://github.com/Lazycodes/Energy-_GDP-_and_Scimago_Rankings_Analysis-2006-2015/blob/main/world_bank.csv">World_Bank.csv</a>
+
+---
+
 ## Questions
 
 1. Question 1:
