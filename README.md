@@ -12,7 +12,7 @@ To use this repository and run the notebooks, you will need to have Python and t
 - code: pip install numpy pandas
 
 To get started with this repository, clone it to your local machine:
-- code: git clone https://github.com/Lazycodes/Energy-_GDP-_and_Scimago_Rankings_Analysis-2006-2015.git
+- code: git clone https://github.com/AsuquoAA/Energy-_GDP-_and_Scimago_Rankings_Analysis-2006-2015.git
   
 Navigating to directory
 - code: cd Energy-_GDP-_and_Scimago_Rankings_Analysis-2006-2015
@@ -22,9 +22,9 @@ Navigating to directory
 ## Datasets
 
 The following datasets were used:
-1. <a href="https://github.com/Lazycodes/Energy-_GDP-_and_Scimago_Rankings_Analysis-2006-2015/blob/main/Energy%20Indicators.xls">Energy_Indicators</a>
-2. <a href="https://github.com/Lazycodes/Energy-_GDP-_and_Scimago_Rankings_Analysis-2006-2015/blob/main/scimagojr-3.xlsx">Scimago_Ranking</a>
-3. <a href="https://github.com/Lazycodes/Energy-_GDP-_and_Scimago_Rankings_Analysis-2006-2015/blob/main/world_bank.csv">World_Bank.csv</a>
+1. <a href="https://github.com/AsuquoAA/Energy-_GDP-_and_Scimago_Rankings_Analysis-2006-2015/blob/main/Energy%20Indicators.xls">Energy_Indicators</a>
+2. <a href="https://github.com/AsuquoAA/Energy-_GDP-_and_Scimago_Rankings_Analysis-2006-2015/blob/main/scimagojr-3.xlsx">Scimago_Ranking</a>
+3. <a href="https://github.com/AsuquoAA/Energy-_GDP-_and_Scimago_Rankings_Analysis-2006-2015/blob/main/world_bank.csv">World_Bank.csv</a>
 
 ---
 
